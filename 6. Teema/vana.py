@@ -1,0 +1,2 @@
+from Kasutajad import Kasutaja()
+
